@@ -4,3 +4,4 @@ This project would allow the user to book patient’s appointment on the basis o
 Structures has been used for collection of the data and priority queue concept has been used for storing the data by the help of linked list concept.
 Features Of the project:
 Staff of the hospital can use this to book appointments on the basis of the medical problem the patient is facing, also they can delete the record, see the record.
+![Screenshot (44)](https://user-images.githubusercontent.com/113160661/203605209-5bd21045-ca21-4147-a726-82de1ce43074.png)
